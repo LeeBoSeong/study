@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class lotto2 {
+public class Lotto2 {
 	public static void main(String[] args) {
 		//indexOf를 이용하여 중복 검사(indexOf는 자신이 찾는 값이 없으면 -1을 리턴 배열에선 사용 불가)
 		Random random = new Random();

@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Random;
 
-public class lotto3 {
+public class Lotto3 {
 	public static void main(String[] args) {
 		//contains를 이용한 중복 검사 배열은 안됌
 		Random random = new Random();
